@@ -1,4 +1,3 @@
-
 var Serie = /** @class */ (function () {
     function Serie(id, name, channel, seasons, description, link, imagen) {
         this.id = id;
